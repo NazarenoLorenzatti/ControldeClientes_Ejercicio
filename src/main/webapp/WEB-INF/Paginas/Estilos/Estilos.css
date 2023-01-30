@@ -1,0 +1,102 @@
+
+#main-header, #modal_header {
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+
+#boton-agregarCliente{
+
+
+    background-image: linear-gradient(to right, #485563 0%, #29323c  51%, #485563  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#boton-agregarCliente:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+#body,#body_editar{
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+#saldo_total{
+    background-color: #002D62;
+}
+
+#cliente_totales{
+    background-color: #0066b2;
+}
+
+.modal-body{
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.modal-footer {
+    background-color: black;
+}
+
+#pie-pagina{
+    background-color: black;
+}
+
+#details{
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+#probando{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+
+#btn_guardar {
+    background-image: linear-gradient(to right, #093028 0%, #237A57  51%, #093028  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#btn_guardar:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+
+#btn_eliminar {
+    background-image: linear-gradient(to right, #a73737 0%, #7a2828  51%, #a73737  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+#btn_eliminar:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
